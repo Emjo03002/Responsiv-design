@@ -1,0 +1,12 @@
+body{
+	margin:0;
+	background-color:cornflowerblue;
+}
+#Cirkel{
+	border-radius:50%;
+	width:100vmin;
+	height:100vmin;
+	background-color:Gold;
+	margin-left:auto;
+	margin-right:auto;
+}
